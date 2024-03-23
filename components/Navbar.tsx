@@ -48,6 +48,7 @@ const Navbar = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.1 }}
+            onClick={() => window.location.reload()}
           >
             <Image className="w-14" src={logo} alt="logo" />
           </motion.div>
