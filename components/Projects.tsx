@@ -1,4 +1,4 @@
-import { Old2new, code-explainer } from "@/public/assets";
+import { Old2new, code_explainer } from "@/public/assets";
 import Image from "next/image";
 import { AiOutlineYoutube } from "react-icons/ai";
 import { TbBrandGithub } from "react-icons/tb";
@@ -68,8 +68,8 @@ const Projects = () => {
             <div>
               <Image
                 className="w-full h-full object-contain"
-                src={code-explainer}
-                alt="code-explainer"
+                src={code_explainer}
+                alt="code_explainer"
               />
               <div className="absolute w-full h-full bg-textGreen/10 rounded-lg top-0 left-0 group-hover:bg-transparent duration-300"></div>
             </div>
@@ -84,6 +84,7 @@ const Projects = () => {
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
               <span className="text-textGreen">Code Explainer</span> is a software tool designed to simplify and clarify complex code structures for developers.
               It provides detailed explanations and annotations for different sections of code, helping users understand the logic, functions, and variables involved.
+            </p>
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
