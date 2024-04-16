@@ -12,7 +12,6 @@ import {
 } from "react-icons/sl";
 import { MdOutlineClose } from "react-icons/md";
 import { motion } from "framer-motion";
-import Loader from "@/components/Loader"; // Import Loader component
 
 const Navbar = () => {
   const ref = useRef<string | any>("");

@@ -15,7 +15,7 @@ const About = () => {
           <p>
             Hello! My name is Jagadish Reddy Ramana and I enjoy working on Machine learning and AI.
             My interest in Machine learning started back in 2019 when I decided to try playing with data
-            and enjoyed to score nad train the data as per needs using ML models.
+            and enjoyed to score and train the data as per needs using ML models.
             After couple of months I became ML Engineer
           </p>
           <p>

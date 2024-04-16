@@ -14,7 +14,7 @@ const SystemEngineer = () => {
         <span className="text-textGreen tracking-wide">@Infosys</span>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
-        Jan 2020 - Dec 2020
+        Jan 2018 - Dec 2020
       </p>
       <ul className="mt-6 flex flex-col gap-3">
         <li className="text-base flex gap-2 text-textDark">
