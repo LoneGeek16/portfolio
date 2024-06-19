@@ -6,7 +6,7 @@ import LeadMLEngineer from "./works/LeadMLEngineer";
 import SeniorEngineer from "./works/SeniorEngineer";
 
 const Experience = () => {
-  const [workLeadMLEngineer, setWorkLeadMLEngineer] = useState(false);
+  const [workLeadMLEngineer, setWorkLeadMLEngineer] = useState(true);
   const [workTechnologyAnalyst, setWorkTechnologyAnalyst] = useState(false);
   const [workSeniorEngineer, setWorkSeniorEngineer] = useState(false);
   const [workSystemEngineer, setWorkSystemEngineer] = useState(false);
