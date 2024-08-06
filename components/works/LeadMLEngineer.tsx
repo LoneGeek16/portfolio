@@ -29,7 +29,6 @@ const LeadMLEngineer = () => {
           Utilized AWS services including S3, EMR clusters, EC2, and Lambda for storing models and procesing data and deployed the GBDT model end point on AWS with a feedback loop and monitoring framework.
         </li>
         <li className="text-base flex gap-2 text-textDark">
-        <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
@@ -39,7 +38,7 @@ const LeadMLEngineer = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Worked on projects improving search relevance and ranking on Expedia's platform, using various ML models to enhance user experience.
+          Worked on projects improving search relevance and ranking on Expedia platform, using various ML models to enhance user experience.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
@@ -51,9 +50,9 @@ const LeadMLEngineer = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          • Implemented generative AI models using Amazon Bedrock (CLAUDE and TITAN) to create personalized content recommendations for users based on their search history and preferences.
+          Implemented generative AI models using Amazon Bedrock (CLAUDE and TITAN) to create personalized content recommendations for users based on their search history and preferences.
         </li>
-
+        <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen tracking-wide">Tools used</span>: Github, Jenkins, docker, Github actions, Airflow
         </li>
       </ul>

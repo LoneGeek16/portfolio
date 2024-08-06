@@ -21,19 +21,22 @@ const SeniorEngineer = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Predictive Maintenance for South California Edison : Consistently achieved 100% compliance with industry best practices.
+          Developed Credit risk model on mortgage loans to estimate risk weighted assets by modelling 
+probability of default for Bank of America.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Key responsibilities were to help the client predict and increase business in different areas of interest.
+          Built and deployed Logistic regression model to estimate probability of default generating new
+business worth $6m.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Led a small team, where we predicted customer loyalty for our client.
+          Designed and built OCR engine using tesseract and CNN-LSTM model to extract content from 
+transactional images for audit purpose saving 80-man hrs./day.t.
         </li>
       </ul>
     </motion.div>

@@ -21,19 +21,21 @@ const TechnologyAnalyst = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Automated Data Ingestion for Australian Client
+          Led automation of ticketing pipeline to route tickets to different teams based on ticket description.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Reduced manual work by 70 percent by automating creation of config files with Python. Led the automation team.
+          Collaborated with different teams for data collection, performed feature engineering and built Random 
+Forest classifier saving 40-man hrs./day
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Responsible for handling end-to-end process(Design to Test), Automated ETL process using Pyspark and BODS into HDFS. Created Pyspark jobs to ingest data from HDFS to Hive.
+          Collaborated with BHP to develop LSTM Model Network predicting maintenance needs for heavy 
+machinery, reducing downtime and saving costs.
         </li>
       </ul>
     </motion.div>
