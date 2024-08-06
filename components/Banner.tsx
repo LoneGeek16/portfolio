@@ -30,10 +30,9 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        with 5+ years of experience. I have a
-        strong foundation in end to end ML workflow(from modelling to production deployment) and
-        developer with excellent problem-solving skills and Passionate about Data Science and AI
-        its ecosystem.
+        Machine learning Engineer with 6 years of experience in building data intensive applications overcoming 
+        complex architectural and scalability issues. Proficient in predictive modelling, data processing, data 
+        mining and deployment of diverse services to translate business to substantial deliverables.
       </motion.p>
       <a href="https://github.com/LoneGeek16" target="_blank">
         <motion.button
