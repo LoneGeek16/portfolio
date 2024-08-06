@@ -20,15 +20,39 @@ const LeadMLEngineer = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          PEAK ML Team in Expedia group - developed end to end ML model along with MLops for Room type mapping and Occupancy Forecasting
+          Led engineering efforts for deploying and maintaining ML model pipelines using GitHub Actions, Jenkins, and other deployment tools.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Search relevance and Ranking in Expedia group - Being a Lead solutions engineer, My role is to work closely with solution architects to deploy an optimum ML model as per client requirements.
+          Utilized AWS services including S3, EMR clusters, EC2, and Lambda for storing models and procesing data and deployed the GBDT model end point on AWS with a feedback loop and monitoring framework.
         </li>
         <li className="text-base flex gap-2 text-textDark">
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Developed and maintained end-to-end ML models and MLOps pipelines to map room types for Expedia, focusing on competitor analysis.
+        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Worked on projects improving search relevance and ranking on Expedia's platform, using various ML models to enhance user experience.
+        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Developed NLP models (VADER and BERT) to analyze customer feedback and reviews, extracting insights to improve product offerings.
+        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          • Implemented generative AI models using Amazon Bedrock (CLAUDE and TITAN) to create personalized content recommendations for users based on their search history and preferences.
+        </li>
 
           <span className="text-textGreen tracking-wide">Tools used</span>: Github, Jenkins, docker, Github actions, Airflow
         </li>
